@@ -30,10 +30,12 @@ List the contents of the "MyLab" directory.
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+
 ![alt text](<../Screenshot 2024-05-07 134448.png>)
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
+
 ![alt text](<../Screenshot 2024-05-07 135952.png>)
 
 
