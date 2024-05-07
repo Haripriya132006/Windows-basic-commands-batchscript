@@ -9,45 +9,33 @@ To execute Windows basic commands and batch scripting
 ### Step 1:
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
-
 ### Step 2:
-
 Write the Windows commands / batch file
 Save each script in a file with a .bat extension.
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
 ### Step 3:
-
 Execute the necessary commands/batch file for the desired output. 
-
-
-
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 
 
-## COMMAND AND OUTPUT
-
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-
-
-## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
 
-
+![alt text](<../Screenshot 2024-05-07 134409.png>)
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-
+![alt text](<../Screenshot 2024-05-07 134448.png>)
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
+![alt text](<../Screenshot 2024-05-07 135952.png>)
 
-
-## COMMAND AND OUTPUT
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -58,9 +46,10 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 
-
 ## OUTPUT
+![alt text](<../Screenshot 2024-05-07 140628.png>)
 
+![alt text](<../Screenshot 2024-05-07 141353.png>)
 
 
 
